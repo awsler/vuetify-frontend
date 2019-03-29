@@ -1,0 +1,7 @@
+kind: pipeline
+
+steps:
+- name: build
+  image: node
+  commands:
+  - npm install
