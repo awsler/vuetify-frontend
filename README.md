@@ -1,5 +1,7 @@
 # vuetify-frontend
 
+[![Build Status](https://cloud.drone.io/api/badges/cpoenisch/vuetify-frontend/status.svg)](https://cloud.drone.io/cpoenisch/vuetify-frontend)
+
 Simple application for event management built using Vuetify front-end framework.
 
 ## Development instructions
